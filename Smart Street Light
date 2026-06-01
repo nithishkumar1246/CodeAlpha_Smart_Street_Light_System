@@ -1,0 +1,29 @@
+# Smart Street Light System using LDR and Ultrasonic Sensor
+
+A Smart Street Light System developed using Arduino, LDR, and Ultrasonic Sensor. The system automatically switches street lights based on ambient light conditions and detects vehicle movement to provide intelligent lighting. This helps reduce energy consumption, improve efficiency, and demonstrates the application of IoT and automation in smart city infrastructure.
+
+## Features
+- Automatic ON/OFF control using LDR
+- Vehicle detection using Ultrasonic Sensor
+- Energy-efficient street lighting
+- Smart automation for real-world applications
+
+## Components Used
+- Arduino UNO
+- LDR Sensor
+- Ultrasonic Sensor
+- LEDs
+- Resistors
+- Jumper Wires
+
+## Technologies Used
+- Arduino IDE
+- Embedded C
+- IoT Concepts
+- Tinkercad Simulation
+
+## Applications
+- Smart Cities
+- Energy Management Systems
+- Automated Street Lighting
+- Sustainable Urban Infrastructure
